@@ -1,0 +1,31 @@
+2020-06-27 19:22:44.426 INFO Train - <module>: MongoDB database connected successfully
+2020-06-27 19:22:44.428 INFO Train - <module>: collected all folders in known_people folder
+2020-06-27 19:22:44.429 DEBUG Train - <module>: ['cersie lannister', 'denerys targeryan', 'tyrion lannister', 'arya stark', 'king in the north']
+2020-06-27 19:22:44.430 INFO Train - <module>: collected all images from all folders in known_people folder
+2020-06-27 19:22:44.430 DEBUG Train - <module>: [['/home/dilip/Desktop/salam_face/images_to_train/cersie lannister/index3.jpeg', '/home/dilip/Desktop/salam_face/images_to_train/cersie lannister/index2.jpeg', '/home/dilip/Desktop/salam_face/images_to_train/cersie lannister/index5.jpeg', '/home/dilip/Desktop/salam_face/images_to_train/cersie lannister/index4.jpeg'], ['/home/dilip/Desktop/salam_face/images_to_train/denerys targeryan/index3.jpeg', '/home/dilip/Desktop/salam_face/images_to_train/denerys targeryan/index2.jpeg', '/home/dilip/Desktop/salam_face/images_to_train/denerys targeryan/index5.jpeg', '/home/dilip/Desktop/salam_face/images_to_train/denerys targeryan/index4.jpeg', '/home/dilip/Desktop/salam_face/images_to_train/denerys targeryan/index1.jpeg'], ['/home/dilip/Desktop/salam_face/images_to_train/tyrion lannister/index3.jpeg', '/home/dilip/Desktop/salam_face/images_to_train/tyrion lannister/index2.jpeg', '/home/dilip/Desktop/salam_face/images_to_train/tyrion lannister/index4.jpeg', '/home/dilip/Desktop/salam_face/images_to_train/tyrion lannister/images5.jpeg', '/home/dilip/Desktop/salam_face/images_to_train/tyrion lannister/index1.jpeg'], ['/home/dilip/Desktop/salam_face/images_to_train/arya stark/index3.jpeg', '/home/dilip/Desktop/salam_face/images_to_train/arya stark/index2.jpeg', '/home/dilip/Desktop/salam_face/images_to_train/arya stark/index5.jpeg', '/home/dilip/Desktop/salam_face/images_to_train/arya stark/index.jpeg', '/home/dilip/Desktop/salam_face/images_to_train/arya stark/images4.jpeg'], ['/home/dilip/Desktop/salam_face/images_to_train/king in the north/index3.jpeg', '/home/dilip/Desktop/salam_face/images_to_train/king in the north/index2.jpeg', '/home/dilip/Desktop/salam_face/images_to_train/king in the north/index5.jpeg', '/home/dilip/Desktop/salam_face/images_to_train/king in the north/index4.jpeg', '/home/dilip/Desktop/salam_face/images_to_train/king in the north/index.jpeg']]
+2020-06-27 19:22:44.430 INFO Train - <module>: started loading images and finding their encodings
+2020-06-27 19:22:44.431 INFO Train - <module>: loading image
+2020-06-27 19:22:44.454 DEBUG Train - <module>: /home/dilip/Desktop/salam_face/images_to_train/cersie lannister/index3.jpeg
+2020-06-27 19:22:44.455 INFO Train - <module>: loading image done
+2020-06-27 19:22:44.455 INFO Train - <module>: finding the encoding of image
+2020-06-27 19:22:44.707 INFO Train - <module>: finding encoding of image is done
+2020-06-27 19:22:44.708 INFO Train - <module>: loading image
+2020-06-27 19:22:44.711 DEBUG Train - <module>: /home/dilip/Desktop/salam_face/images_to_train/cersie lannister/index2.jpeg
+2020-06-27 19:22:44.712 INFO Train - <module>: loading image done
+2020-06-27 19:22:44.712 INFO Train - <module>: finding the encoding of image
+2020-06-27 19:22:44.969 INFO Train - <module>: finding encoding of image is done
+2020-06-27 19:22:44.969 INFO Train - <module>: loading image
+2020-06-27 19:22:44.973 DEBUG Train - <module>: /home/dilip/Desktop/salam_face/images_to_train/cersie lannister/index5.jpeg
+2020-06-27 19:22:44.973 INFO Train - <module>: loading image done
+2020-06-27 19:22:44.973 INFO Train - <module>: finding the encoding of image
+2020-06-27 19:22:45.222 INFO Train - <module>: finding encoding of image is done
+2020-06-27 19:22:45.222 INFO Train - <module>: loading image
+2020-06-27 19:22:45.226 DEBUG Train - <module>: /home/dilip/Desktop/salam_face/images_to_train/cersie lannister/index4.jpeg
+2020-06-27 19:22:45.226 INFO Train - <module>: loading image done
+2020-06-27 19:22:45.226 INFO Train - <module>: finding the encoding of image
+2020-06-27 19:22:45.479 INFO Train - <module>: finding encoding of image is done
+2020-06-27 19:22:45.479 INFO Train - <module>: getting average of encodings of loaded images
+2020-06-27 19:22:45.481 INFO Train - <module>: done with getting average encodings
+2020-06-27 19:22:45.481 INFO Train - <module>: storing the name and encoding in local dictionary
+2020-06-27 19:22:45.481 INFO Train - <module>: stored name and encodes in local dictionary
+2020-06-27 19:22:45.481 INFO Train - <module>: storing the name and encodings in mongodb

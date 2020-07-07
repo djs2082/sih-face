@@ -1,0 +1,16 @@
+2020-06-27 19:19:48.839 INFO Train - <module>: MongoDB database connected successfully
+2020-06-27 19:19:48.840 INFO Train - <module>: collected all folders in known_people folder
+2020-06-27 19:19:48.841 DEBUG Train - <module>: ['cersie lannister', 'denerys targeryan', 'tyrion lannister', 'arya stark', 'king in the north']
+2020-06-27 19:19:48.842 INFO Train - <module>: collected all images from all folders in known_people folder
+2020-06-27 19:19:48.842 DEBUG Train - <module>: [['/home/dilip/Desktop/salam_face/images_to_train/cersie lannister/index.jpg'], [], [], [], []]
+2020-06-27 19:19:48.842 INFO Train - <module>: started loading images and finding their encodings
+2020-06-27 19:19:48.842 INFO Train - <module>: loading image
+2020-06-27 19:19:48.866 DEBUG Train - <module>: /home/dilip/Desktop/salam_face/images_to_train/cersie lannister/index.jpg
+2020-06-27 19:19:48.866 INFO Train - <module>: loading image done
+2020-06-27 19:19:48.866 INFO Train - <module>: finding the encoding of image
+2020-06-27 19:19:49.144 INFO Train - <module>: finding encoding of image is done
+2020-06-27 19:19:49.144 INFO Train - <module>: getting average of encodings of loaded images
+2020-06-27 19:19:49.145 INFO Train - <module>: done with getting average encodings
+2020-06-27 19:19:49.145 INFO Train - <module>: storing the name and encoding in local dictionary
+2020-06-27 19:19:49.145 INFO Train - <module>: stored name and encodes in local dictionary
+2020-06-27 19:19:49.145 INFO Train - <module>: storing the name and encodings in mongodb

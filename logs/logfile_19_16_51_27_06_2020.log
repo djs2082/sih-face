@@ -1,0 +1,8 @@
+2020-06-27 19:16:51.818 INFO Train - <module>: MongoDB database connected successfully
+2020-06-27 19:16:51.820 INFO Train - <module>: collected all folders in known_people folder
+2020-06-27 19:16:51.821 DEBUG Train - <module>: ['cersie lannister', 'denerys targeryan', 'tyrion lannister', 'arya stark', 'king in the north']
+2020-06-27 19:16:51.822 INFO Train - <module>: collected all images from all folders in known_people folder
+2020-06-27 19:16:51.822 DEBUG Train - <module>: [[], [], [], [], []]
+2020-06-27 19:16:51.822 DEBUG Train - <module>: cersie lannister
+2020-06-27 19:16:51.822 ERROR Train - <module>: above folder is empty with no images
+2020-06-27 19:16:51.822 INFO Train - <module>: exiting the program with no updates in training

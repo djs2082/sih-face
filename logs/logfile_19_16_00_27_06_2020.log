@@ -1,0 +1,13 @@
+2020-06-27 19:16:00.334 INFO Train - <module>: MongoDB database connected successfully
+2020-06-27 19:16:00.336 INFO Train - <module>: collected all folders in known_people folder
+2020-06-27 19:16:00.336 DEBUG Train - <module>: ['dilip', 'cersie lannister', 'denerys targeryan', 'tyrion lannister']
+2020-06-27 19:16:00.338 INFO Train - <module>: collected all images from all folders in known_people folder
+2020-06-27 19:16:00.339 DEBUG Train - <module>: [['/home/dilip/Desktop/salam_face/images_to_train/dilip/838168.jpg'], [], [], [], [], []]
+2020-06-27 19:16:00.339 INFO Train - <module>: started loading images and finding their encodings
+2020-06-27 19:16:00.339 INFO Train - <module>: loading image
+2020-06-27 19:16:00.684 DEBUG Train - <module>: /home/dilip/Desktop/salam_face/images_to_train/dilip/838168.jpg
+2020-06-27 19:16:00.684 INFO Train - <module>: loading image done
+2020-06-27 19:16:00.685 INFO Train - <module>: finding the encoding of image
+2020-06-27 19:16:10.631 ERROR Train - <module>: no face is detected in image
+2020-06-27 19:16:10.631 INFO Train - <module>: skiping to find encodes of this image
+2020-06-27 19:16:10.631 INFO Train - <module>: getting average of encodings of loaded images
