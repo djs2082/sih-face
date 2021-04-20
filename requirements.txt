@@ -100,7 +100,7 @@ Pillow==7.0.0
 pipx==0.15.1.3
 pluggy==0.13.1
 protobuf==3.0.0
-py==1.8.1
+py==1.10.0
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
 pycairo==1.16.2
