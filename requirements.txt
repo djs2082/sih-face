@@ -32,7 +32,7 @@ decorator==4.4.2
 defer==1.0.6
 distro==1.4.0
 distro-info===0.18ubuntu0.18.04.1
-Django==3.0.3
+Django==3.1.9
 django-cors-headers==3.6.0
 django-storages==1.11.1
 djangorestframework==3.12.2
