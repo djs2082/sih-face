@@ -1,4 +1,4 @@
-aiohttp==3.6.2
+aiohttp==3.8.1
 apturl==0.5.2
 argcomplete==1.11.1
 asgiref==3.3.1
