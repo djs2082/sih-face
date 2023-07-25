@@ -135,7 +135,7 @@ pyttsx3==2.90
 pytz==2019.3
 PyWavelets==1.1.1
 pyxdg==0.25
-PyYAML==3.12
+PyYAML==5.4
 pyzmq==16.0.2
 regex==2020.11.13
 reportlab==3.4.0
